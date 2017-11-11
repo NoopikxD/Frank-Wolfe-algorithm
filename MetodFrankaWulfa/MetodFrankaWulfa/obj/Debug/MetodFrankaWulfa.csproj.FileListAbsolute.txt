@@ -1,0 +1,6 @@
+D:\qwe.txt\MetodFrankaWulfa\MetodFrankaWulfa\bin\Debug\MetodFrankaWulfa.exe.config
+D:\qwe.txt\MetodFrankaWulfa\MetodFrankaWulfa\bin\Debug\MetodFrankaWulfa.exe
+D:\qwe.txt\MetodFrankaWulfa\MetodFrankaWulfa\bin\Debug\MetodFrankaWulfa.pdb
+D:\qwe.txt\MetodFrankaWulfa\MetodFrankaWulfa\obj\Debug\MetodFrankaWulfa.csprojResolveAssemblyReference.cache
+D:\qwe.txt\MetodFrankaWulfa\MetodFrankaWulfa\obj\Debug\MetodFrankaWulfa.exe
+D:\qwe.txt\MetodFrankaWulfa\MetodFrankaWulfa\obj\Debug\MetodFrankaWulfa.pdb
